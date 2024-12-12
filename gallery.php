@@ -1,15 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Travel Management System - Photo Gallery</title>
+<title>Gallery</title>
+   </head>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f9;
+            background-color:white;
         }
 
         .gallery-container {
@@ -22,7 +20,7 @@
             text-align: center;
             font-size: 2rem;
             margin-bottom: 20px;
-            color: #333;
+            color: #f15173;
         }
 
         .gallery-grid {
@@ -75,27 +73,96 @@
 </head>
 <body>
     <div class="gallery-container">
-        <h1 class="gallery-title">Travel Memories</h1>
+        <h1 class="gallery-title">Travel Memories of Previous Visitors</h1>
         <div class="gallery-grid">
             <div class="gallery-item">
-                <img src="images/bardiya.jpg" alt="Beautiful Beach">
-                <div class="caption">Beautiful Beach</div>
+                <img src="images/Gallery/pokhara.jpg" alt="pokhara">
+                <div class="caption">Pokhara</div>
             </div>
             <div class="gallery-item">
-                <img src="images/swayambhunath.jpg" alt="Mountain Hike">
-                <div class="caption">Mountain Hike</div>
+                <img src="images/Gallery/pokhara2.jpg" alt="pokhara">
+                <div class="caption">Pokhara</div>
             </div>
             <div class="gallery-item">
-                <img src="images/topdest3lumbi.jpg" alt="City Skyline">
-                <div class="caption">City Skyline</div>
+                <img src="images/Gallery/pokhara3.jpg" alt="pokhara">
+                <div class="caption">Pokhara</div>
             </div>
             <div class="gallery-item">
-                <img src="images/topdest1pokh.jpg" alt="Serene Lake">
-                <div class="caption">Serene Lake</div>
+                <img src="images/Gallery/pokhara4.jpg" alt="pokhara">
+                <div class="caption">Pokhara</div>
             </div>
             <div class="gallery-item">
-                <img src="images/topdest1pokh.jpg" alt="Desert Adventure">
-                <div class="caption">Desert Adventure</div>
+                <img src="images/topdest1pokh.jpg" alt="pokhara">
+                <div class="caption">Pokhara</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/annapurna.jpg" alt="annapurna">
+                <div class="caption">Annapurna</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/annapurna2.jpg" alt="annapurna">
+                <div class="caption">Annapurna</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/tamang.jpg" alt="tamang">
+                <div class="caption">Tamang</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/tamang2.jpg" alt="tamang">
+                <div class="caption">Tamang</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/tamang3.jpg" alt="tamang">
+                <div class="caption">Tamang</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/chitwan.jpg" alt="chitwan">
+                <div class="caption">Chitwan</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/chitwan2.jpg" alt="chitwan">
+                <div class="caption">Chitwan</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/chitwan3.jpg" alt="chitwan">
+                <div class="caption">Chitwan</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/chitwan4.jpg" alt="chitwan">
+                <div class="caption">Chitwan</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/chitwan5.jpg" alt="chitwan">
+                <div class="caption">Chitwan</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/chitwan6.jpg" alt="chitwan">
+                <div class="caption">Chitwan</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/khopra.jpg" alt="khopra">
+                <div class="caption">Khopra</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/khopra2.jpg" alt="khopra">
+                <div class="caption">Khopra</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/mardi.jpg" alt="mardi">
+                <div class="caption">Mardi</div>
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/Gallery/mardi2.jpg" alt="mardi">
+                <div class="caption">Mardi</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/mardi3.jpg" alt="mardi">
+                <div class="caption">Mardi</div>
+            </div>
+            <div class="gallery-item">
+                <img src="images/Gallery/mardi4.jpg" alt="mardi">
+                <div class="caption">Mardi</div>
             </div>
         </div>
     </div>
